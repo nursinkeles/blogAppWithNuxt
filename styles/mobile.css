@@ -1,0 +1,41 @@
+@media screen and (max-width: 600px) {
+    nav {
+        width: 90%;
+        flex-direction: column
+    }
+
+    .search-field input {
+        padding: 5px;
+    }
+
+    .button-group button {
+        margin: 20px 10px
+    }
+
+    .title {
+        width: 80%;
+        margin: 1rem auto;
+    }
+
+    .detail-page h1 {
+        font-size: 16px;
+    }
+
+    .detail-page p {
+        font-size: 14px;
+    }
+
+    .sub-container {
+        font-size: 13px;
+        padding: 1rem 2rem;
+    }
+
+    .bottom-container {
+        padding: 1rem;
+    }
+
+    .modal-container,
+    .content {
+        width: 90%;
+    }
+}

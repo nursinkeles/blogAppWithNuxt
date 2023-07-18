@@ -1,0 +1,84 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Creating a Blog with Nuxt.js",
+      "summary": "How to create a blog using Nuxt.js?",
+      "content": "In this article, you will learn step by step how to create a blog using Nuxt.js. Nuxt.js is a framework for building server-side rendered Vue.js applications. It provides an intuitive and powerful way to structure and develop your Vue.js projects. By following the tutorial in this article, you will understand the fundamentals of Nuxt.js, including routing, server-side rendering, and managing data with Vuex. You will also learn how to integrate plugins, add styles, and deploy your blog to production. Get ready to dive into the world of Nuxt.js and create your own amazing blog!",
+      "publication_date": "10-05-2022",
+      "saved": true
+    },
+    {
+      "id": "2",
+      "title": "Creating Dynamic Forms with Vue.js",
+      "summary": "How to handle form operations with Vue.js?",
+      "content": "In this article, we will explore how to create a dynamic form using Vue.js. Vue.js is a progressive JavaScript framework that makes it easy to build interactive web interfaces. Forms are an essential part of many web applications, and Vue.js provides powerful tools and features to handle form operations efficiently. Throughout the tutorial, you will learn how to create form components, perform form validation, handle form submission, and dynamically update the form based on user input. By the end, you will have a solid understanding of Vue.js form handling techniques and be able to build dynamic and user-friendly forms for your projects.",
+      "publication_date": "18-03-2022",
+      "saved": false
+    },
+    {
+      "id": "3",
+      "title": "Basic JavaScript Loops",
+      "summary": "How to use for, while, and do-while loops in JavaScript?",
+      "content": "In this article, you will learn how to use basic loops like for, while, and do-while in JavaScript. Loops are used to repeatedly execute a block of code until a certain condition is met. They are essential for automating repetitive tasks and iterating over arrays or other data structures. We will cover the syntax and usage of each loop type, explore common loop patterns, and discuss best practices for efficient looping. By mastering JavaScript loops, you will have a powerful toolset for handling various programming scenarios and improving the performance of your code.",
+      "publication_date": "05-01-2022",
+      "saved": true
+    },
+    {
+      "id": "4",
+      "title": "Using React Hooks",
+      "summary": "How to use hooks for state and other React features in React projects?",
+      "content": "In this article, you will learn how to use React hooks to manage state and leverage other React features in your projects. React hooks provide a way to use state and other React features without writing class components. They simplify the development process, make the code more concise and readable, and encourage the reusability of logic. We will cover the most commonly used hooks, including useState, useEffect, useContext, and useReducer, and explore how to incorporate them into your components. By the end of this tutorial, you will have a solid understanding of React hooks and be able to take advantage of their power in your React projects.",
+      "publication_date": "29-11-2021",
+      "saved": true
+    },
+    {
+      "id": "5",
+      "title": "Data Analysis with Python",
+      "summary": "How to perform data analysis operations using Python?",
+      "content": "In this article, you will learn how to perform data analysis operations using the Python programming language and various libraries. Python provides powerful tools and libraries for data analysis tasks, making it a popular choice among data scientists and analysts. We will cover the basics of data manipulation, exploratory data analysis, data visualization, and statistical analysis using libraries such as NumPy, Pandas, Matplotlib, and Seaborn. Whether you are a beginner or have some experience with Python, this tutorial will equip you with the necessary skills to start analyzing and deriving insights from data using Python.",
+      "publication_date": "12-09-2021",
+      "saved": false
+    },
+    {
+      "id": "6",
+      "title": "Responsive Design with Bootstrap",
+      "summary": "How to create responsive designs using the Bootstrap framework?",
+      "content": "In this article, you will learn the fundamentals of creating responsive designs using the Bootstrap framework. Bootstrap is a popular CSS framework that helps build responsive and mobile-first websites. We will cover the grid system, responsive utilities, components, and navigation in Bootstrap. You will learn how to create flexible and adaptive layouts that automatically adjust to different screen sizes and devices. Additionally, we will explore advanced techniques such as responsive typography and customizing Bootstrap to match your design requirements. By the end of this tutorial, you will have the knowledge and skills to create stunning responsive designs with ease.",
+      "publication_date": "22-07-2021",
+      "saved": false
+    },
+    {
+      "id": "7",
+      "title": "Git and GitHub Basics",
+      "summary": "How to manage your projects using Git and GitHub?",
+      "content": "In this article, you will learn how to manage your projects using Git and GitHub. Git is a distributed version control system, and GitHub is a web-based platform for hosting Git repositories and collaborating with others. We will cover the basic Git commands, such as initializing a repository, tracking changes, creating branches, merging code, and resolving conflicts. Additionally, we will explore GitHub's features, including repository management, pull requests, and collaboration with other developers. By the end of this tutorial, you will have a solid understanding of Git and GitHub, enabling you to effectively manage your projects and collaborate with a team.",
+      "publication_date": "16-05-2021",
+      "saved": true
+    },
+    {
+      "id": "8",
+      "title": "New Elements in HTML5",
+      "summary": "How to use the new elements introduced in HTML5?",
+      "content": "In this article, you will learn about the new elements introduced in HTML5 and how to use them. HTML5 brings several new semantic elements and APIs that enhance the structure and functionality of web pages. We will cover elements such as <header>, <footer>, <nav>, <article>, <section>, and <aside>, and explore their purpose and usage. Additionally, we will discuss other HTML5 features like audio and video elements, form enhancements, and client-side storage. By incorporating these new elements into your HTML markup, you can improve the accessibility, semantics, and overall user experience of your web pages.",
+      "publication_date": "08-03-2021",
+      "saved": true
+    },
+    {
+      "id": "9",
+      "title": "CSS Grid Layout Usage",
+      "summary": "How to create flexible and powerful layouts with CSS Grid Layout?",
+      "content": "In this article, you will learn the basics of creating flexible and powerful layouts using CSS Grid Layout. CSS Grid Layout is a powerful two-dimensional grid system that allows you to create complex grid-based designs. We will cover the grid container, grid items, grid tracks, and grid areas, and explore different layout techniques such as auto placement, explicit placement, and grid alignment. Additionally, we will discuss responsive design with CSS Grid and how to handle common layout challenges. By mastering CSS Grid Layout, you will have the ability to build modern and dynamic layouts that adapt to different screen sizes and content structures.",
+      "publication_date": "02-01-2021",
+      "saved": false
+    },
+    {
+      "id": "10",
+      "title": "Web Applications with PHP",
+      "summary": "How to develop web applications using PHP?",
+      "content": "In this article, you will learn the fundamentals of developing web applications using the PHP programming language. PHP is a popular server-side scripting language used for creating dynamic and interactive web pages. We will cover topics such as PHP syntax, variables, data types, control structures, functions, and database connectivity. You will also learn about security considerations, form handling, and session management in PHP. By the end of this tutorial, you will have a strong foundation in PHP web development and be able to build robust and feature-rich web applications.",
+      "publication_date": "14-11-2020",
+      "saved": true
+    }
+  ]
+}

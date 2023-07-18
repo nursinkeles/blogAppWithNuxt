@@ -1,0 +1,139 @@
+body {
+    box-sizing: border-box;
+    margin: 20px;
+    background-color: #d6d5d3;
+    letter-spacing: 0.03rem;
+}
+
+.container {
+    height: 250px;
+    background: #fff;
+    text-align: center;
+    margin: 30px;
+    margin-top: 5rem;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px #706f6f;
+}
+
+.detail-page .content {
+    transform: translateY(-100%);
+    letter-spacing: 0.05rem;
+    color: #6b6b6b;
+}
+
+b {
+    color: #000;
+}
+
+.detail-page img {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    object-fit: cover;
+    box-shadow: 0 1px 10px rgb(211, 209, 209);
+    border-radius: 50%;
+    transform: translateY(-50%);
+}
+
+.detail-page h1 {
+    color: #c8aa8c;
+    font-size: 25px;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+.sub-container {
+    background: #fff;
+    text-align: center;
+    margin: 30px;
+    font-size: 15px;
+    padding: 3rem 5rem;
+    letter-spacing: 0.05rem;
+    color: #6b6b6b;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px #706f6f;
+}
+
+.bottom-container {
+    background: #fff;
+    text-align: center;
+    margin: 25px;
+    font-size: 15px;
+    padding: 3rem 5rem;
+    border-radius: 10px;
+    box-shadow: 0 1px 5px #706f6f;
+}
+
+.bottom-container button {
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    margin: 0 10px;
+    background: #000;
+    box-shadow: 0 1px 5px #706f6f;
+}
+
+.bottom-container button:hover {
+    background: #c8aa8c;
+    color: #000;
+}
+
+.back-icon {
+    text-decoration: none;
+}
+
+.back-icon i {
+    background: #000;
+    color: #fff;
+    width: 37px;
+    height: 37px;
+    display: flex;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    transition: 1000ms;
+    box-shadow: 0 1px 5px #706f6f;
+}
+
+.back-icon i:hover {
+    background: #c8aa8c;
+    color: #000;
+}
+
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.form-group input {
+    width: 68%;
+    text-align: left;
+    padding: 0;
+}
+
+.edit-form label {
+    color: #000;
+    font-weight: 700;
+}
+
+form button {
+    margin: 1rem auto;
+    width: 100%;
+}
+
+textarea {
+    outline: none;
+    width: 67%;
+    height: 40px;
+}
+
+.form-group:last-child textarea {
+    min-height: 150px;
+}
